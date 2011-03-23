@@ -18,17 +18,6 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="alternates_for_a">ά</string>
-    <string name="alternates_for_e">έ3</string>
-    <string name="alternates_for_h">ή</string>
-    <string name="alternates_for_i">ίϊΐ8</string>
-    <string name="alternates_for_o">ό9</string>
-    <string name="alternates_for_p">0</string>
-    <string name="alternates_for_q">1</string>
-    <string name="alternates_for_r">4</string>
-    <string name="alternates_for_t">5</string>
-    <string name="alternates_for_u">7</string>
-    <string name="alternates_for_y">ύϋΰ6</string>
-    <string name="alternates_for_v">ώ</string>
-    <string name="alternates_for_w">2</string>
+    <string name="alternates_for_cyrillic_g">7ґ</string>
+    <string name="alternates_for_cyrillic_i">ї</string>
 </resources>
